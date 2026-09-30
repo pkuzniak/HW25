@@ -51,4 +51,4 @@ Pull request nie powoduje wdrożenia produkcyjnego.
 Job status uruchamia się zawsze dzięki:
 
 ```yaml
-if: always()
+if: always()Test PR
